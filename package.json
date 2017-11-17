@@ -1,0 +1,36 @@
+{
+  "name": "hamada",
+  "version": "0.0.1",
+  "description": "Discord bot written in Node.js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weq/Hamada.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "gaki",
+    "no",
+    "tsukai",
+    "hamada",
+    "node.js",
+    "discord.js",
+    "mongo",
+    "mongodb",
+    "node"
+  ],
+  "author": "Raymond Siring",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/weq/Hamada/issues"
+  },
+  "homepage": "https://github.com/weq/Hamada#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "mongodb": "^2.2.33"
+  }
+}
